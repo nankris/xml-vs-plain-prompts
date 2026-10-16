@@ -1,0 +1,3 @@
+arm,n,passed,total_tokens_mean,output_mean,turns_mean,tool_calls_mean,one_line_replies,est_cost_total,wall_mean,failed
+haiku_plain,14,14,79657,707.9,5.5,4.5,14,0.0482,8.6,none
+haiku_xml,14,14,81975,745,5.43,4.43,14,0.0479,8.3,none
