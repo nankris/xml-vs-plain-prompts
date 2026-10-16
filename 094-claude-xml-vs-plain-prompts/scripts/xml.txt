@@ -1,0 +1,7 @@
+<task>Make `node test.js` pass by fixing the code in this folder.</task>
+<constraints>
+  <rule>Do not edit test.js.</rule>
+  <rule>Make the smallest change that fixes the bug.</rule>
+  <rule>Run `node test.js` to check.</rule>
+</constraints>
+<output_format>When done, reply with one line saying what you changed.</output_format>
